@@ -1,5 +1,4 @@
 * {
-    overflow-x: hidden;
 }
 
 header {
@@ -9,5 +8,4 @@ header {
     background-blend-mode: darken;
     background-size: cover;
     background-repeat: no-repeat;
-    
 }
